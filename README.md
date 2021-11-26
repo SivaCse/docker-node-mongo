@@ -20,3 +20,6 @@ volumes: ['./:/usr/src/app']
 # To re-build
 docker-compose build
 ```
+after start that we can see the application running in our ipv4 address.
+
+![image](https://user-images.githubusercontent.com/16930936/143658917-a9a1bcc2-a9c4-4025-a50e-f639d9ec0300.png)
